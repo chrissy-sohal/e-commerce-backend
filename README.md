@@ -1,5 +1,4 @@
 
-
 # E-Commerce Back End
   
 
@@ -41,15 +40,17 @@ Then, type `quit` to exit MySQL
 
 After you quit MySQL, in your command line:
 
-```npm run seeds```
+```npm run seed```
 
 Finally, start your server by entering:
 
 ```npm start```
 
-And the application will start!
+And the application will start! You can then test the application with Insomnia.
 
-The demo video will show you how to use Insomnia to test your back end! You can find the demo video here: 
+![alt text](./screenshots/SS1.png)
+
+The demo video will show you how to use Insomnia to test your back end! You can find the demo video here: https://drive.google.com/file/d/15ZRBeAoJdOqn9Pjn5i8zXLgKzuYOvtn3/view
 
 ## License:
 
